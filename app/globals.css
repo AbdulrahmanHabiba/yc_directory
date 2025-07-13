@@ -66,7 +66,7 @@
   }
 
   .pink_container {
-    @apply w-full bg-primary min-h-[400px] sm:min-h-[450px] md:min-h-[530px] pattern flex justify-center items-center flex-col py-6 sm:py-8 md:py-10 px-3 sm:px-4 md:px-6;
+    @apply w-full bg-primary min-h-[220px] sm:min-h-[260px] md:min-h-[320px] pattern flex justify-center items-center flex-col py-4 sm:py-6 md:py-8 px-2 sm:px-4;
   }
 
   .tag {
@@ -74,11 +74,11 @@
   }
 
   .heading {
-    @apply uppercase bg-black px-3 sm:px-4 md:px-6 py-2 sm:py-2.5 md:py-3 font-work-sans font-extrabold text-white text-[20px] sm:text-[28px] md:text-[36px] lg:text-[54px] leading-[26px] sm:leading-[34px] md:leading-[46px] lg:leading-[64px] max-w-5xl text-center my-3 sm:my-4 md:my-5 mx-auto;
+    @apply uppercase bg-black w-full max-w-[95vw] px-2 sm:px-4 py-3 sm:py-4 font-work-sans font-extrabold text-white text-[24px] sm:text-[32px] md:text-[40px] lg:text-[54px] leading-tight text-center my-2 sm:my-4 mx-auto;
   }
 
   .sub-heading {
-    @apply font-medium text-[14px] sm:text-[16px] md:text-[18px] lg:text-[20px] text-white max-w-2xl text-center break-words mx-auto;
+    @apply font-medium text-[16px] sm:text-[18px] md:text-[20px] text-white max-w-[95vw] text-center break-words mx-auto mb-2 sm:mb-4;
   }
 
   .section_container {
