@@ -15,7 +15,7 @@ export default async function Home({ searchParams }: { searchParams: Promise<{qu
                     Connect With Entrepreneurs
                 </h1>
 
-                <p className="sub-heading !max-w-3xl">
+                <p className="sub-heading max-w-2xl sm:!bg-blue-700 sm:!max-w-3xl ">
                     Submit Ideas, Vote on Pitches, and Get Noticed in Virtual
                     Competitions.
                 </p>
