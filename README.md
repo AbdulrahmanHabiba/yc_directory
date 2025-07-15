@@ -1,6 +1,6 @@
 # YC Directory 🧠🚀
 
-A clean and modern **Startup Directory Platform** built with **Next.js 15**, **React 19**, and **Sanity**, allowing entrepreneurs to submit their startup ideas for virtual pitch competitions. Users can browse, search, and explore pitches with smooth UX and dynamic content management.
+A clean and modern **Startup Directory Platform** built with **Next.js 15**, **React 19**, and **Sanity**, allowing entrepreneurs to submit their startup ideas for virtual pitch competitions. Users can create and publish ideas instantly, browse, search, and explore pitches with smooth UX, dynamic content management, and optimized loading via **ISR**.
 
 ## Live Demo
 
